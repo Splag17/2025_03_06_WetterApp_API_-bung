@@ -35,8 +35,8 @@ def check_city(cityname, region, country):
         if answer in ["ja", "j", "nein", "n"]:
             return answer
         else:            
-            print('\n\033[93mAntworte bitte mit "Ja" oder "Nein"!\033[0m')
-            input("")
+            print('\n\033[93mAntworte bitte mit "Ja" oder "Nein"!\033[0m')   
+            input("")         
 
 
 def get_json(response):
@@ -70,8 +70,7 @@ def main():
 
             if answer in ["ja", "j"]:
                 print(f"\n\033[92mDie Temperatur in {cityname}, {region} liegt bei {temperature}°C\033[0m")                
-                return
-        input("")    
+                return            
 
 
 main()
