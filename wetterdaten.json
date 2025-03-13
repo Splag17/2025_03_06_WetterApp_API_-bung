@@ -1,0 +1,47 @@
+{
+    "stadt": "Hannover",
+    "region": "Niedersachsen",
+    "land": "Germany",
+    "aktuell": {
+        "temperatur": 6.2,
+        "wetter": "leicht bewölkt",
+        "windgeschwindigkeit": 14.0
+    },
+    "vorhersage": [
+        {
+            "datum": "2025-03-13",
+            "durchschnittstemperatur": 3.0,
+            "regenwahrscheinlichkeit": 89
+        },
+        {
+            "datum": "2025-03-14",
+            "durchschnittstemperatur": 2.2,
+            "regenwahrscheinlichkeit": 88
+        },
+        {
+            "datum": "2025-03-15",
+            "durchschnittstemperatur": 2.7,
+            "regenwahrscheinlichkeit": 0
+        },
+        {
+            "datum": "2025-03-16",
+            "durchschnittstemperatur": 4.8,
+            "regenwahrscheinlichkeit": 0
+        },
+        {
+            "datum": "2025-03-17",
+            "durchschnittstemperatur": 3.7,
+            "regenwahrscheinlichkeit": 0
+        },
+        {
+            "datum": "2025-03-18",
+            "durchschnittstemperatur": 2.1,
+            "regenwahrscheinlichkeit": 0
+        },
+        {
+            "datum": "2025-03-19",
+            "durchschnittstemperatur": 3.4,
+            "regenwahrscheinlichkeit": 0
+        }
+    ]
+}
